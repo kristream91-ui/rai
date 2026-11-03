@@ -1,0 +1,36 @@
+# Render blueprint for the Rai site.
+#
+# The NEXT_PUBLIC_* values are read at build time by Next.js, so they must be set
+# before the first build — Render injects env vars for both build and runtime.
+# `sync: false` means Render prompts for the value in the dashboard instead of
+# storing it in this file.
+services:
+  - type: web
+    name: rai
+    runtime: node
+    plan: free
+    region: singapore
+    branch: main
+    buildCommand: npm ci && npm run build
+    startCommand: npm run start
+    healthCheckPath: /
+    autoDeploy: true
+    envVars:
+      - key: NODE_VERSION
+        value: 20.20.2
+      - key: NEXT_TELEMETRY_DISABLED
+        value: "1"
+      - key: NEXT_PUBLIC_FIREBASE_API_KEY
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_PROJECT_ID
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+        sync: false
+      - key: NEXT_PUBLIC_FIREBASE_APP_ID
+        sync: false
+      - key: NEXT_PUBLIC_USE_LOCAL_DATA
+        value: "0"

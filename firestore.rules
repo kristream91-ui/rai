@@ -1,0 +1,12 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Public catalogue: anyone can read, nobody can write from the client.
+    // Writes happen only through the seed script using the Admin/service account.
+    match /titles/{titleId} {
+      allow read: if true;
+      allow write: if false;
+    }
+  }
+}
