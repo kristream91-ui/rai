@@ -58,6 +58,21 @@ The seed script uses the Admin SDK because `firestore.rules` denies client write
 
 `lib/content.ts` reads the `titles` collection when Firebase is configured, and falls back to the bundled JSON if the collection is empty or the read throws. Set `NEXT_PUBLIC_USE_LOCAL_DATA=1` to force local data even when Firebase is set up. Pages revalidate every 300 seconds.
 
+## Deploy on Render
+
+`render.yaml` is a blueprint for a free Node web service:
+
+- build: `npm ci && npm run build`
+- start: `npm run start`
+- health check: `/`
+
+Import the repo in Render → **New → Blueprint**, pick `kristream91-ui/rai`, and Render creates
+the service from `render.yaml`. It will ask for the six `NEXT_PUBLIC_FIREBASE_*` values because
+they are marked `sync: false`. Those values are baked in at **build** time, so set them before
+the first deploy — changing them later needs a rebuild, not just a restart.
+
+Without the Firebase values the deploy still works; it serves the bundled `data/titles.json`.
+
 ## Data shape
 
 Each document in `titles` (and each object in `data/titles.json`) looks like this:
