@@ -1,0 +1,801 @@
+[
+  {
+    "id": "ramayana-part-1",
+    "title": "Ramayana: Part 1",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Fantasy",
+      "Drama",
+      "Action"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-11-05",
+    "featured": true,
+    "tagline": "New Release",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "Nitesh Tiwari's big-screen adaptation of the epic opens the Ramayana story: Ravana abducts Sita and takes her to Lanka, and Rama gathers an army to cross the sea and bring her back. Stars Ranbir Kapoor, Yash, Sai Pallavi and Sunny Deol."
+  },
+  {
+    "id": "jailer-2",
+    "title": "Jailer 2",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "language": "Tamil",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-15",
+    "featured": true,
+    "tagline": "Box Office No. 1",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "Nelson Dilipkumar's sequel puts Rajinikanth back in the lead with Vidya Balan and Mirnaa Menon, plus cameos from Hrithik Roshan and Mohanlal. It has been the biggest earner in Indian theatres through October and November 2026."
+  },
+  {
+    "id": "udta-teer",
+    "title": "Udta Teer",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-23",
+    "featured": true,
+    "tagline": "Trending",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "Ayushmann Khurrana and Sara Ali Khan lead this romance-comedy that has held steady in the top five of the Hindi box office since its 23 October release."
+  },
+  {
+    "id": "drishyam-the-conclusion",
+    "title": "Drishyam: The Conclusion",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-02",
+    "featured": true,
+    "tagline": "Still Running",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "Ajay Devgn, Tabu and Shriya Saran return for the third Drishyam film, which has crossed ₹375 crore net in India and stayed in theatres well past its first month."
+  },
+  {
+    "id": "prahaar",
+    "title": "Prahaar: The Ujjwal Nikam Story",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-16",
+    "featured": true,
+    "tagline": "New Release",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "Rajkummar Rao plays public prosecutor Ujjwal Nikam in this courtroom drama built around the cases that made him a household name in India."
+  },
+  {
+    "id": "clayface",
+    "title": "Clayface",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "language": "English",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-16",
+    "featured": true,
+    "tagline": "New Movie",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "The DC villain gets his own body-horror outing, and it has been one of the few English titles pulling crowds in Indian multiplexes through October 2026."
+  },
+  {
+    "id": "street-fighter",
+    "title": "Street Fighter",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "language": "English",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-16",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "The live-action take on Capcom's fighting game opened to about $31 million in the US and $50 million worldwide in its first weekend."
+  },
+  {
+    "id": "nayyi-navelli",
+    "title": "Nayyi Navelli",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-16",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "Yami Gautam headlines this small-scale Hindi drama that has quietly held screens through its third week."
+  },
+  {
+    "id": "aadarsha-kutumbam",
+    "title": "Aadarsha Kutumbam House No: 47",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Family",
+      "Comedy"
+    ],
+    "language": "Telugu",
+    "platform": "Theatres",
+    "releaseDate": "2026-10-30",
+    "sections": [
+      "talk-of-the-town"
+    ],
+    "synopsis": "A Telugu family actioner that opened big over the Diwali weekend at the end of October 2026 and has been trading the top two spots with Jailer 2."
+  },
+  {
+    "id": "pluribus",
+    "title": "Pluribus",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "editors-pick",
+      "apple-tv"
+    ],
+    "synopsis": "Vince Gilligan's follow-up to Breaking Bad, with Rhea Seehorn as an acerbic fantasy author who turns out to be one of the last people on earth not absorbed into a hive mind. 99% on the Tomatometer."
+  },
+  {
+    "id": "widows-bay",
+    "title": "Widow's Bay",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "editors-pick",
+      "apple-tv"
+    ],
+    "synopsis": "Matthew Rhys plays a mayor trying to turn a cursed New England harbour town into a tourist destination. Katie Dippold's comedy-horror was one of the most talked-about shows of 2026 and is renewed for a second season."
+  },
+  {
+    "id": "raakh",
+    "title": "Raakh",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "language": "Hindi",
+    "platform": "Prime Video",
+    "sections": [
+      "editors-pick",
+      "prime"
+    ],
+    "synopsis": "Ali Fazal and Sonali Bendre lead a 1978 Delhi investigation into the kidnapping and murder of two teenage siblings, inspired by the Ranga-Billa case. One of IMDb's most-viewed Indian series of 2026."
+  },
+  {
+    "id": "kohrra-season-2",
+    "title": "Kohrra Season 2",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Netflix",
+    "sections": [
+      "editors-pick"
+    ],
+    "synopsis": "Mona Singh and Barun Sobti return to Punjab's winter for a fresh murder — Preet Bajwa's — that pulls apart family ties, betrayal and old silences."
+  },
+  {
+    "id": "the-studio",
+    "title": "The Studio",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Comedy",
+      "Satire"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "editors-pick",
+      "apple-tv"
+    ],
+    "synopsis": "Seth Rogen runs a fictional Hollywood studio in a satire co-created with Evan Goldberg. Packed with cameos and already renewed for a second season."
+  },
+  {
+    "id": "black-clover-season-2",
+    "title": "Black Clover Season 2",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Anime",
+      "Action",
+      "Fantasy"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "editors-pick",
+      "crunchyroll"
+    ],
+    "synopsis": "After a five-year hiatus, Studio Pierrot returned to the Spade Kingdom Raid arc on 3 October 2026 — and it became the most-watched anime on Crunchyroll for the October quarter."
+  },
+  {
+    "id": "the-boys-season-5",
+    "title": "The Boys Season 5",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Satire",
+      "Superhero"
+    ],
+    "language": "English",
+    "platform": "Prime Video",
+    "sections": [
+      "editors-pick",
+      "prime"
+    ],
+    "synopsis": "The final season of Eric Kripke's superhero deconstruction, with Homelander's reign reaching its climax and Butcher making his last impossible choices."
+  },
+  {
+    "id": "bait",
+    "title": "Bait",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Comedy",
+      "Thriller"
+    ],
+    "language": "English",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Riz Ahmed plays a struggling British-Pakistani actor who lands an audition for the next James Bond and starts to come apart under impostor syndrome. Collider's top Prime Video show of 2026 so far."
+  },
+  {
+    "id": "young-sherlock",
+    "title": "Young Sherlock",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Mystery",
+      "Thriller"
+    ],
+    "language": "English",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Guy Ritchie's non-canonical prequel puts Hero Fiennes Tiffin in Oxford, where a young Holmes teams up with James Moriarty to chase a conspiracy tied to stolen diplomatic scrolls."
+  },
+  {
+    "id": "scarpetta",
+    "title": "Scarpetta",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "language": "English",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Nicole Kidman as chief medical examiner Dr. Kay Scarpetta, revisiting a career-making serial murder case when a new victim turns up with the same signature."
+  },
+  {
+    "id": "off-campus",
+    "title": "Off Campus",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Elle Kennedy's Briar University books adapted for the screen: a tutor-and-hockey-star fake-dating arrangement that turns real, and turns serious."
+  },
+  {
+    "id": "steal",
+    "title": "Steal",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Thriller",
+      "Crime"
+    ],
+    "language": "English",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Sophie Turner's ordinary office day at a London investment firm becomes a hostage crisis when armed thieves arrive for £4 billion in pension funds — and it escalates into an MI5 conspiracy."
+  },
+  {
+    "id": "matka-king",
+    "title": "Matka King",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Nagraj Manjule directs Vijay Varma as a 1960s Mumbai cotton trader who builds an empire on the illegal matka gambling game. A second season is already announced."
+  },
+  {
+    "id": "aspirants-season-3",
+    "title": "Aspirants Season 3",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "An inquiry into DM Abhilash's conduct threatens his career and his friendships, while a younger Abhilash decides to give the IAS one last attempt."
+  },
+  {
+    "id": "adarsh-baal-vidyalaya",
+    "title": "Adarsh Baal Vidyalaya",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Kay Kay Menon plays the laid-back headmaster of a dysfunctional Delhi government school chasing a fully funded trip to Cambridge. One of IMDb's top Indian series of 2026."
+  },
+  {
+    "id": "operation-safed-sagar",
+    "title": "Operation Safed Sagar",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "War",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Netflix",
+    "sections": [
+      "editors-pick"
+    ],
+    "synopsis": "A six-episode account of the Indian Air Force's high-altitude campaign during the 1999 Kargil War, following the Golden Arrows squadron and the families left waiting."
+  },
+  {
+    "id": "taskaree",
+    "title": "Taskaree: The Smuggler's Web",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "language": "Hindi",
+    "platform": "Netflix",
+    "sections": [
+      "editors-pick"
+    ],
+    "synopsis": "Emraan Hashmi leads a customs task force at Mumbai's international airport against a smuggling syndicate that reaches further into the system than the team expects."
+  },
+  {
+    "id": "made-in-india-a-titan-story",
+    "title": "Made in India: A Titan Story",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Drama",
+      "Biography"
+    ],
+    "language": "Hindi",
+    "platform": "Prime Video",
+    "sections": [
+      "prime"
+    ],
+    "synopsis": "Jim Sarbh as Xerxes Desai and Naseeruddin Shah as JRD Tata, in a series about building India's first world-class quartz watch brand in pre-liberalisation India."
+  },
+  {
+    "id": "frieren-beyond-journeys-end",
+    "title": "Frieren: Beyond Journey's End",
+    "type": "show",
+    "year": 2023,
+    "genres": [
+      "Anime",
+      "Fantasy",
+      "Adventure"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "After the hero's party defeats the Demon King, the elven mage Frieren outlives her companions and sets out to understand the lives she barely noticed. A second season is streaming in 2026."
+  },
+  {
+    "id": "solo-leveling",
+    "title": "Solo Leveling",
+    "type": "show",
+    "year": 2024,
+    "genres": [
+      "Anime",
+      "Action",
+      "Fantasy"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "The weakest hunter alive starts levelling up alone, and the whole guild system starts to look very different from the inside."
+  },
+  {
+    "id": "the-apothecary-diaries",
+    "title": "The Apothecary Diaries",
+    "type": "show",
+    "year": 2023,
+    "genres": [
+      "Anime",
+      "Mystery",
+      "Drama"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "Maomao, sold into the imperial palace as a servant, keeps solving the poisonings and mysteries around her with an apothecary's eye. Season 3 is airing through late 2026."
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "title": "JUJUTSU KAISEN",
+    "type": "show",
+    "year": 2020,
+    "genres": [
+      "Anime",
+      "Action",
+      "Supernatural"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "Yuji Itadori swallows a cursed finger and lands in a world of sorcerers and curses. Season 3 was one of the most-rated anime releases of early 2026."
+  },
+  {
+    "id": "one-piece",
+    "title": "One Piece",
+    "type": "show",
+    "year": 1999,
+    "genres": [
+      "Anime",
+      "Adventure",
+      "Action"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "Luffy and the Straw Hats keep sailing toward the One Piece. Still the longest-running fixture on Crunchyroll's most-popular list."
+  },
+  {
+    "id": "overgeared",
+    "title": "Overgeared",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Anime",
+      "Fantasy",
+      "Action"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "One of the 2026 season's breakout anime: a VR-game story about the player everyone wrote off, and the gear nobody else can make."
+  },
+  {
+    "id": "firefly-wedding",
+    "title": "Firefly Wedding",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Anime",
+      "Romance",
+      "Drama"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "Satoko Kirigaya has little time left and a marriage to secure, until a ruthless man enters the arrangement. One of the highest-rated shows in Crunchyroll's autumn 2026 line-up."
+  },
+  {
+    "id": "mushoku-tensei",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "type": "show",
+    "year": 2021,
+    "genres": [
+      "Anime",
+      "Fantasy",
+      "Drama"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "A reincarnated NEET grows up in a world of magic and takes his second life seriously. Topped Crunchyroll's global chart through October 2026."
+  },
+  {
+    "id": "dragon-ball-super-beerus",
+    "title": "Dragon Ball Super: Beerus",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Anime",
+      "Action",
+      "Adventure"
+    ],
+    "language": "Japanese",
+    "platform": "Crunchyroll",
+    "sections": [
+      "crunchyroll"
+    ],
+    "synopsis": "A remastered, re-edited cut of the Battle of Gods arc, following Goku and friends as the God of Destruction wakes up looking for a rival."
+  },
+  {
+    "id": "severance",
+    "title": "Severance",
+    "type": "show",
+    "year": 2022,
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "Lumon's employees have surgically split their work memories from their home lives. Season 3 is the show's biggest and most emotionally ambitious run yet."
+  },
+  {
+    "id": "slow-horses",
+    "title": "Slow Horses",
+    "type": "show",
+    "year": 2022,
+    "genres": [
+      "Spy",
+      "Thriller",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "Gary Oldman's Jackson Lamb runs Slough House, where MI5 parks its screw-ups, who somehow keep saving London anyway. Season 6 is airing in late 2026."
+  },
+  {
+    "id": "silo",
+    "title": "Silo",
+    "type": "show",
+    "year": 2023,
+    "genres": [
+      "Sci-Fi",
+      "Mystery",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "Ten thousand people live underground and are told the outside is lethal. Rebecca Ferguson's engineer keeps digging anyway."
+  },
+  {
+    "id": "foundation",
+    "title": "Foundation",
+    "type": "show",
+    "year": 2021,
+    "genres": [
+      "Sci-Fi",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "Asimov's centuries-spanning saga of a mathematician who predicts the fall of a galactic empire and builds a foundation to shorten the dark age that follows."
+  },
+  {
+    "id": "lucky",
+    "title": "Lucky",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "Anya Taylor-Joy plays a con artist on the run after a multi-million-dollar heist goes wrong, with a missing husband, a crooked father and the feds all closing in."
+  },
+  {
+    "id": "murderbot",
+    "title": "Murderbot",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "Alexander Skarsgård voices a security cyborg that gains free will and would much rather watch soap operas than protect the scientists it has been assigned."
+  },
+  {
+    "id": "ted-lasso",
+    "title": "Ted Lasso",
+    "type": "show",
+    "year": 2020,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "The relentlessly optimistic Kansas coach returned in August 2026 for a fourth season, this time helping Richmond build a women's team."
+  },
+  {
+    "id": "shrinking",
+    "title": "Shrinking",
+    "type": "show",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "A grieving therapist starts telling his patients exactly what he thinks of them. Jason Segel and Harrison Ford anchor one of Apple's warmest shows."
+  },
+  {
+    "id": "cape-fear",
+    "title": "Cape Fear",
+    "type": "show",
+    "year": 2026,
+    "genres": [
+      "Thriller",
+      "Drama"
+    ],
+    "language": "English",
+    "platform": "Apple TV",
+    "sections": [
+      "apple-tv"
+    ],
+    "synopsis": "The 2026 series take on the Cape Fear story, built on sustained suspense rather than jump scares, and one of the darker entries in Apple's line-up this year."
+  },
+  {
+    "id": "dhurandhar-the-revenge",
+    "title": "Dhurandhar: The Revenge",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-03-19",
+    "sections": [
+      "editors-pick"
+    ],
+    "synopsis": "The biggest Hindi film of 2026 so far, at roughly ₹1,813 crore worldwide, and still the benchmark the year's other releases are being measured against."
+  },
+  {
+    "id": "mirzapur-the-movie",
+    "title": "Mirzapur: The Movie",
+    "type": "movie",
+    "year": 2026,
+    "genres": [
+      "Crime",
+      "Action",
+      "Drama"
+    ],
+    "language": "Hindi",
+    "platform": "Theatres",
+    "releaseDate": "2026-09-04",
+    "sections": [
+      "editors-pick"
+    ],
+    "synopsis": "The Prime Video crime franchise moved to the big screen in September 2026 and crossed ₹224 crore net in India."
+  }
+]
