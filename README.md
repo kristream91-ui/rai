@@ -87,7 +87,12 @@ Each document in `titles` (and each object in `data/titles.json`) looks like thi
 
 ## Logo
 
-The mark is `public/logo.svg`. Replace that one file to change the logo everywhere; `components/Logo.tsx` only references the path.
+The Rai emblem is a vector trace of the supplied artwork, kept at `public/logo.svg`. The same
+file is also served as the favicon from `app/icon.svg`. Replace both to change the mark
+everywhere; `components/Logo.tsx` only references the path.
+
+The trace is clipped to a circle so the badge sits cleanly on any background — the corners of
+the original square artwork are dropped rather than filled with black.
 
 ## Layout
 
